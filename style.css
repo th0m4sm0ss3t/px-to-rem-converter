@@ -1,0 +1,35 @@
+body {
+    font-family: 'Karla', sans-serif;
+    color: #3CACAE;
+    background-color: rgb(243, 242, 233);
+}
+
+.title {
+    text-align: center;
+}
+
+.wrapper {
+   width: fit-content;
+   margin: 0 auto;
+}
+
+.pxInput {
+    border: 3px solid #468CCA;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: rgb(243, 242, 233);
+}
+
+.pxInput::placeholder {
+    color: #3CACAE;
+}
+
+.remText {
+    text-align: center;
+}
+
+.remResult {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #468CCA;
+}
